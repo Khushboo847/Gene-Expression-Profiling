@@ -75,7 +75,7 @@ The workflow simulates a typical RNA-seq analysis pipeline using processed gene 
 ##  How to Run
 
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/Khushboo847/Gene-Expression-Profiling>
 cd gene-expression-project
 pip install -r requirements.txt
 python src/analysis.py
